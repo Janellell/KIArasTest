@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+SSC_SRC\ARAS_SRC\src\com\atos\rmg\dao
+2
+5
+1c:RmgOperationJDBCDaoImpl.java|1|1610dc89a74|19f5|3bc5a47f|b61331baeb9d11e780010002f650c84c|0
+18:RmgOperationJDBCDao.java|1|16049ed1072|139|b3a7643c|2f61a1e4df0d11e780100002f650c84c|0
+18:RmgOperationDaoImpl.java|1|164b6195923|15156|25d3c58b|1d8bc93a8b5511e880020002f650ef4c|0
+14:RmgOperationDao.java|1|16465ab80d9|9db|b13e70f8|0d2c0d787ba411e880180002f650c84c|0
+9:Test.java|1|1604fcbedda|236|c1b7ba1f|9600c90ed5b011e7800a0002f650ef4c|0

@@ -1,0 +1,4 @@
+smtp_host=mail.my-it-solutions.net
+##smtp_host=SSC2VIN3MSADW1
+smtp_socketFactory_port=25
+smtp_port=25

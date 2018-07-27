@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+SSC_SRC\ARAS_SRC\src
+2
+8
+3:com|2|0|0|0|edf16902d5af11e780270002f650ef4c|0
+15:Connection.properties|1|1607e097da0|c1|28f341ce|fa1c7678de5211e7802e0002f650c84c|0
+1d:emailConfiguration.properties|1|1607e09b046|4e|a2531c8f|e5238a1edf0311e7800c0002f650c84c|0
+4:prod|2|0|0|0|e128c78ee6ec11e780fd0002f650ef4c|0
+15:filterData.properties|1|1643651ef4c|1bdc|614a074f|36365f2c785011e880220002f650ef4c|0
+3:stg|2|0|0|0|e7e9b68ae6ed11e7802d0002f650ef4c|0
+10:log4j.properties|1|16068b5a03c|31f|11031929|1ac371d4e19911e780030002f650c84c|0
+5:local|2|0|0|0|e048c786e6ec11e780fd0002f650ef4c|0

@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+SSC_SRC\ARAS_SRC\src\com\atos\rmg\util
+2
+2
+19:EncryptableUtilities.java|1|162fc8e6f07|da2|f3825c64|6aa3558046df11e880250002f650c84c|0
+11:UtilityClass.java|1|1633f1360f3|422|ae7739fc|4ce0a30c4a0111e880240002f650c84c|0
